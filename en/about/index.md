@@ -42,7 +42,7 @@
 ### Social and Comment Systems
 
 * :(far fa-user): **Gravatar** supported by [Gravatar](https://gravatar.com)
-* :(fas fa-user-circle): Local **Avatar** supported
+* :(fa-solid fa-user): Local **Avatar** supported
 * :(far fa-id-card): Up to **84** social links supported
 * :(fas fa-share-square): Up to **27** share sites supported
 * :(far fa-comment): **Disqus** comment system supported by [Disqus](https://disqus.com)

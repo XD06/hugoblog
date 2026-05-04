@@ -32,6 +32,22 @@ We are all in the gutter, but some of us are looking at the stars.
     </div>
 </div>
 
+<div class="timeline-item">
+    <div class="timeline-date">2021.04.15</div>
+    <div class="timeline-title">梦开始的地方</div>
+    <div class="timeline-subtitle">C语言</div>
+    <div class="timeline-content">
+ {{<typeit group="paragraph" code="c">}}
+#include <stdio.h>
+int main()
+{
+    printf("Hello, World! \n");
+    return 0;
+}
+{{</typeit>}}
+    </div>
+</div>
+
 </div>
 
 
